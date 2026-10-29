@@ -1,0 +1,5 @@
+Latest websocket does not work
+
+DO NOT INSTALL websocket or websocket-client
+
+ONLY INSTALL pip install websocket-client==0.57.0
